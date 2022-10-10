@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #EEF2E6;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    margin: 5% 15%;
+    font-family: 'Alkalami', serif;
+    color: #1C6758;
+}
+.myimg{
+    margin: 0% 15%;
+}
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+}
+.form-label{
+    margin-top: 16px;;
+    color: #3D8361;
+}
+.form-ptag{
+    color: #D6CDA4;
+}
+.btn {
+    min-width: 150px;
+}
