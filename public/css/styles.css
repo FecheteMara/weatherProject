@@ -4,9 +4,14 @@ body{
     font-family: 'Ubuntu', sans-serif;
 }
 h1{
-    margin: 5% 15%;
+    margin: 3% 15%;
     font-family: 'Alkalami', serif;
     color: #1C6758;
+}
+h3{
+    color: #3D8361;
+    margin: 5% 15%;
+    text-align: left;
 }
 .myimg{
     margin: 0% 15%;
@@ -21,7 +26,13 @@ h1{
 }
 .form-ptag{
     color: #D6CDA4;
+    bottom: 0;
+    text-align: center;
 }
 .btn {
     min-width: 150px;
+}
+.section{
+    margin-top: 5%;
+    margin-bottom: 15%;
 }
